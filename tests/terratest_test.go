@@ -54,7 +54,7 @@ func TestFull(t *testing.T) {
 
 	"ConnectionTimeOut": 15,
 	"DhcpTimeout": 60,
-	"LunBusyRetryCount": 15,
+	"LunBusyRetryCount": 15
 }
 `
 	// Validate that what is in the Intersight API matches the expected
